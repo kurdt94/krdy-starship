@@ -11,13 +11,19 @@ $git_status\
 [](fg:#303030 bg:#1c1c1c)\
 $time\
 [ ](fg:#1c1c1c)\
-\n$character"""
+\n\n$character"""
 
 [directory]
 style = "fg:#e4e4e4 bg:#444444"
 format = "[ $path ]($style)"
 truncation_length = 3
 truncation_symbol = "…/"
+
+[directory.substitutions]
+"Documents" = "󰈙 "
+"Downloads" = " "
+"Music" = " "
+"Pictures" = " "
 
 [git_branch]
 symbol = ""
