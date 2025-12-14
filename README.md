@@ -1,19 +1,23 @@
-# ✨ krdy-starship
+# krdy-starship
 ---
-My custom grey-scale Starship prompt theme. 
+My custom grey-scale Starship prompt theme.  
+
+## Prerequisites
+
+- A Nerdfont installed and enabled in your terminal. **[nerdfonts.com](https://www.nerdfonts.com/)**
 
 ## Theme Preview
 
-![Screenshot of the Starship Krdy Theme in a terminal](https://i.imgur.com/aHULtFM.png)
+![Screenshot of the Starship Krdy Theme in a terminal](https://i.imgur.com/EbFFNoa.png)
 
 ---
 
-## 🚀 Installation
+## 🚀 Contents
 
 This repository contains the configuration file: `starship-krdy.toml`.
 
 ## 🔗 Reference
 
-For documentation on customizing this configuration file or troubleshooting the Starship CLI, please refer to the official website:
+For documentation on customizing or troubleshooting Starship, please refer to the official website:
 
 **[starship.rs](https://starship.rs/)**
